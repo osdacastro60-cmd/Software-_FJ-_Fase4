@@ -1,0 +1,15 @@
+2026-11-21 21:23:10,869 - INFO - --- INICIO DE SIMULACION DE 10 OPERACIONES ---
+2026-11-21 21:23:10,869 - WARNING - Escenario 2: La cedula debe contener solo numeros (minimo 5 digitos).
+2026-11-21 21:23:10,870 - WARNING - Escenario 3: El correo 'pedrogomez_sin_email.com' no es valido.
+2026-11-21 21:23:10,870 - WARNING - Escenario 5: La cantidad y dias de equipos deben ser mayores a 0.
+2026-11-21 21:23:10,870 - INFO - Iniciando reserva #1001 para Ana Martinez...
+2026-11-21 21:23:10,870 - INFO - Reserva #1001 CONFIRMADA. Total: $321,300.00 COP
+2026-11-21 21:23:10,870 - INFO - Finalizo tramite de Reserva #1001 (Estado: Confirmada).
+2026-11-21 21:23:10,871 - INFO - Iniciando reserva #1002 para Ana Martinez...
+2026-11-21 21:23:10,871 - INFO - Reserva #1002 CONFIRMADA. Total: $476,000.00 COP
+2026-11-21 21:23:10,871 - INFO - Finalizo tramite de Reserva #1002 (Estado: Confirmada).
+2026-11-21 21:23:10,871 - INFO - Reserva #1002 fue CANCELADA.
+2026-11-21 21:23:10,872 - INFO - Iniciando reserva #1002 para Ana Martinez...
+2026-11-21 21:23:10,872 - INFO - Finalizo tramite de Reserva #1002 (Estado: Cancelada).
+2026-11-21 21:23:10,872 - WARNING - Escenario 10: No se puede procesar una reserva cancelada.
+2026-11-21 21:23:10,872 - INFO - --- FIN DE SIMULACION DE 10 OPERACIONES ---
